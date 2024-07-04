@@ -62,3 +62,52 @@
 ### Glass Inspection using Camera
 - Developed a project for inspecting defects in glass bottles using ML and AI with any camera.
 - The main goal of this project is to develop a module to identify the number of defects in glass materials.
+
+---
+
+## Skills
+- **C, C++**
+- **Python**
+- **ROS**
+- **Jetson, Rpi**
+- **SLAM**
+- **Gazebo**
+- **A*, Dijkstra, etc.**
+- **Mobile Robotics**
+- **Machine Learning**
+- **Path-planning & Navigation**
+- **Lidar**
+
+---
+
+## Education
+
+### Bachelor of Technology, Farukhnagar
+**Global Institute of Technology**  
+*Batch 2018-22*  
+*Location: Gurugram, Haryana*
+
+- Maharishi Dayanand University
+- B-Tech in Computer Science
+
+---
+
+### 12th and 10th
+**Jindal Public School**  
+*2016-18*  
+*Location: Dashrathpuri, New-Delhi*
+
+- (10th-12th) CBSE
+
+---
+
+## Area of Interest
+- UAV's and AGVs
+- Humanoids and Computer Vision
+- Exploring new technologies
+
+---
+
+## Languages
+- **English:** 4/5
+- **Hindi:** 5/5
